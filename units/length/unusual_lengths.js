@@ -32,3 +32,11 @@ numi.addUnit({
    "format" : "football fields",
    "ratio" : 110
 });
+
+numi.addUnit({ // The Sheppey, Douglas Adams - the minimum distance at which sheep remain picturesque. 7/8 mile
+    "id": "sheppey",
+    "phrases": "sheppey, sheppies",
+    "baseUnitId": "m",
+    "format": "sheppey",
+    "ratio": 1408.176
+});
