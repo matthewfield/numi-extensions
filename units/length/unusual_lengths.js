@@ -4,24 +4,24 @@
 numi.addUnit({
    "id": "cubit",
    "phrases": "cubit, cubits",
-   "baseUnitId": "inch",
-   "format" : "cubit",
-   "ratio" : 18
+   "baseUnitId": "m",
+   "format" : "cubits",
+   "ratio" : 0.4572
 });
 
 numi.addUnit({
    "id": "hand",
    "phrases": "hand, hands",
-   "baseUnitId": "inch",
-   "format" : "hand",
-   "ratio" : 4
+   "baseUnitId": "m",
+   "format" : "hands",
+   "ratio" : 0.1016
 });
 
 numi.addUnit({
    "id": "horse",
    "phrases": "horse, horses",
    "baseUnitId": "m",
-   "format" : "horse",
+   "format" : "horses",
    "ratio" : 2.4385
 });
 
