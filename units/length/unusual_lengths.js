@@ -5,7 +5,7 @@ numi.addUnit({
    "id": "cubit",
    "phrases": "cubit, cubits",
    "baseUnitId": "m",
-   "format" : "cubits",
+   "format" : "cubit",
    "ratio" : 0.4572
 });
 
@@ -15,6 +15,22 @@ numi.addUnit({
    "baseUnitId": "m",
    "format" : "hands",
    "ratio" : 0.1016
+});
+
+numi.addUnit({
+   "id": "palm",
+   "phrases": "palm, palms",
+   "baseUnitId": "m",
+   "format" : "palm",
+   "ratio" : 0.0762
+});
+
+numi.addUnit({
+   "id": "finger",
+   "phrases": "finger, fingers",
+   "baseUnitId": "m",
+   "format" : "finger",
+   "ratio" : 0.022225
 });
 
 numi.addUnit({
