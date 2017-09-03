@@ -40,3 +40,11 @@ numi.addUnit({ // The Sheppey, Douglas Adams - the minimum distance at which she
     "format": "sheppey",
     "ratio": 1408.176
 });
+
+numi.addUnit({ // The Barleycorn, and Anglo-Saxon unit of length
+    "id": "barleycorn",
+    "phrases": "barleycorn, barleycorns",
+    "baseUnitId": "mm",
+    "format": "barleycorn",
+    "ratio": 8.5
+});
