@@ -15,6 +15,6 @@ Extensions for Numi calculator (numi.io)
 
 # Installation
 
-Open Numi settings, select Extensions and then "Open extensions folder"
+Open Numi settings (little toggle switch icon in bottom left of window), select Extensions and then "Open extensions folder"
 
 Either drop the js files you want into the folder, or drop the entire units folder in there as Numi will look in the subfolders.
