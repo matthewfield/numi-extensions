@@ -17,10 +17,26 @@ numi.addUnit({
    "ratio" : .864
 });
 
-numi.addUnit({ // a fortnight is 14 days (UK English)
+numi.addUnit({
    "id": "fortnight",
    "phrases": "fortnight, fortnights",
    "baseUnitId": "second",
    "format" : "fortnight",
    "ratio" : 1209600
+});
+
+numi.addUnit({
+   "id": "jiffy",
+   "phrases": "jiffy, jiffys, jiffies",
+   "baseUnitId": "second",
+   "format" : "jiffy",
+   "ratio" : 0.1
+});
+
+numi.addUnit({
+   "id": "shake",
+   "phrases": "shake, shakes",
+   "baseUnitId": "second",
+   "format" : "shake",
+   "ratio" : 0.00000001
 });
