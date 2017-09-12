@@ -64,3 +64,27 @@ numi.addUnit({ // The Barleycorn, and Anglo-Saxon unit of length
     "format": "barleycorn",
     "ratio": 0.0085
 });
+
+numi.addUnit({ // Light year
+    "id": "lightyear",
+    "phrases": "light year, light years, ly",
+    "baseUnitId": "m",
+    "format": "ly",
+    "ratio": 9460730777119564
+});
+
+numi.addUnit({ // Parsec
+    "id": "parsec",
+    "phrases": "parsec, parsecs, pc",
+    "baseUnitId": "m",
+    "format": "pc",
+    "ratio": 30856775810000000
+});
+
+numi.addUnit({ // astronomical unit - average distance between earth and sun
+    "id": "astronomical_unit",
+    "phrases": "astronomical unit, astronomical uits, ua, au",
+    "baseUnitId": "m",
+    "format": "au",
+    "ratio": 149597870700
+});
