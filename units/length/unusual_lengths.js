@@ -1,4 +1,4 @@
-// archaic/biblical/unusual lengths extension
+// astronomical/archaic/biblical/unusual lengths extension
 // Author: Matthew Field, mail@mattfield.com
 
 numi.addUnit({
@@ -87,4 +87,12 @@ numi.addUnit({ // astronomical unit - average distance between earth and sun
     "baseUnitId": "m",
     "format": "au",
     "ratio": 149597870700
+});
+
+numi.addUnit({ // smoot - https://en.wikipedia.org/wiki/Smoot - One smoot is equal to Oliver Smoot's height at the time of the prank, 5 feet 7 inches
+    "id": "smoot",
+    "phrases": "smoot",
+    "baseUnitId": "m",
+    "format": "smoot",
+    "ratio": 1.7018
 });
