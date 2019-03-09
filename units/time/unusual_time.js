@@ -45,6 +45,6 @@ numi.addUnit({
     "id": "scaramucci",
     "phrases": "scaramucci, scaramuccis",
     "baseUnitId": "second",
-    "format": "scararmucci",
+    "format": "scaramucci",
     "ratio": 518400
 });
