@@ -10,6 +10,8 @@ Extensions for Numi calculator (numi.io)
     - Unusual volume units
   - Weight
     - Grain
+    - Astronomical weights
+    - Imperial weights
 
 ![Screenshot](https://raw.githubusercontent.com/matthewfield/numi-extensions/master/screenshot.png)
 
